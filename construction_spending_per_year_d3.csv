@@ -1,0 +1,211 @@
+,year,category,spending
+0,2002,amusement and recreation,208150
+1,2003,amusement and recreation,201975
+2,2004,amusement and recreation,200172
+3,2005,amusement and recreation,183210
+4,2006,amusement and recreation,227878
+5,2007,amusement and recreation,254024
+6,2008,amusement and recreation,262259
+7,2009,amusement and recreation,232766
+8,2010,amusement and recreation,202669
+9,2011,amusement and recreation,192671
+10,2012,amusement and recreation,185682
+11,2013,amusement and recreation,182506
+12,2014,amusement and recreation,198534
+13,2015,amusement and recreation,248142
+14,2016,amusement and recreation,20918
+15,2002,commercial,752371
+16,2003,commercial,737951
+17,2004,commercial,803629
+18,2005,commercial,842973
+19,2006,commercial,920076
+20,2007,commercial,1071579
+21,2008,commercial,1036738
+22,2009,commercial,661882
+23,2010,commercial,481424
+24,2011,commercial,511968
+25,2012,commercial,565217
+26,2013,commercial,638201
+27,2014,commercial,749058
+28,2015,commercial,805404
+29,2016,commercial,66427
+30,2002,communication,221932
+31,2003,communication,174353
+32,2004,communication,184749
+33,2005,communication,227371
+34,2006,communication,266808
+35,2007,communication,329898
+36,2008,communication,318336
+37,2009,communication,236572
+38,2010,communication,212301
+39,2011,communication,212946
+40,2012,communication,194163
+41,2013,communication,212923
+42,2014,communication,205763
+43,2015,communication,231511
+44,2016,communication,21635
+45,2002,conservation and development,43536
+46,2003,conservation and development,47116
+47,2004,conservation and development,48434
+48,2005,conservation and development,53482
+49,2006,conservation and development,61193
+50,2007,conservation and development,63024
+51,2008,conservation and development,62947
+52,2009,conservation and development,69150
+53,2010,conservation and development,85662
+54,2011,conservation and development,90720
+55,2012,conservation and development,74679
+56,2013,conservation and development,71546
+57,2014,conservation and development,87748
+58,2015,conservation and development,96960
+59,2016,conservation and development,7559
+60,2002,educational,886422
+61,2003,educational,891867
+62,2004,educational,888886
+63,2005,educational,954901
+64,2006,educational,1020964
+65,2007,educational,1158168
+66,2008,educational,1256187
+67,2009,educational,1238951
+68,2010,educational,1059708
+69,2011,educational,1017230
+70,2012,educational,1014034
+71,2013,educational,948863
+72,2014,educational,954734
+73,2015,educational,1016319
+74,2016,educational,87195
+75,2002,health care,325430
+76,2003,health care,351877
+77,2004,health care,385808
+78,2005,health care,412961
+79,2006,health care,461863
+80,2007,health care,524699
+81,2008,health care,561960
+82,2009,health care,538659
+83,2010,health care,472103
+84,2011,health care,482342
+85,2012,health care,509996
+86,2013,health care,488136
+87,2014,health care,461016
+88,2015,health care,480295
+89,2016,health care,39209
+90,2002,highway and street,693388
+91,2003,highway and street,686917
+92,2004,highway and street,705339
+93,2005,highway and street,767472
+94,2006,highway and street,861780
+95,2007,highway and street,920714
+96,2008,highway and street,969375
+97,2009,highway and street,980094
+98,2010,highway and street,983680
+99,2011,highway and street,954406
+100,2012,highway and street,962396
+101,2013,highway and street,970744
+102,2014,highway and street,1008400
+103,2015,highway and street,1067620
+104,2016,highway and street,110677
+105,2002,lodging,130422
+106,2003,lodging,128544
+107,2004,lodging,148362
+108,2005,lodging,154077
+109,2006,lodging,217661
+110,2007,lodging,344469
+111,2008,lodging,429665
+112,2009,lodging,305987
+113,2010,lodging,139624
+114,2011,lodging,109554
+115,2012,lodging,130028
+116,2013,lodging,161631
+117,2014,lodging,193281
+118,2015,lodging,252065
+119,2016,lodging,23600
+120,2002,power,445326
+121,2003,power,497283
+122,2004,power,426577
+123,2005,power,458746
+124,2006,power,506703
+125,2007,power,791459
+126,2008,power,964929
+127,2009,power,1059851
+128,2010,power,914784
+129,2011,power,898077
+130,2012,power,1184052
+131,2013,power,1098707
+132,2014,power,1245972
+133,2015,power,1057284
+134,2016,power,89201
+135,2002,public safety,94101
+136,2003,public safety,85948
+137,2004,public safety,84018
+138,2005,public safety,87404
+139,2006,public safety,93249
+140,2007,public safety,121800
+141,2008,public safety,156701
+142,2009,public safety,165787
+143,2010,public safety,134272
+144,2011,public safety,124692
+145,2012,public safety,125254
+146,2013,public safety,114053
+147,2014,public safety,112518
+148,2015,public safety,106787
+149,2016,public safety,8276
+150,2002,sewage and waste disposal,194855
+151,2003,sewage and waste disposal,198629
+152,2004,sewage and waste disposal,214836
+153,2005,sewage and waste disposal,236836
+154,2006,sewage and waste disposal,278345
+155,2007,sewage and waste disposal,298514
+156,2008,sewage and waste disposal,308130
+157,2009,sewage and waste disposal,298495
+158,2010,sewage and waste disposal,311377
+159,2011,sewage and waste disposal,272704
+160,2012,sewage and waste disposal,267866
+161,2013,sewage and waste disposal,268036
+162,2014,sewage and waste disposal,278242
+163,2015,sewage and waste disposal,301388
+164,2016,sewage and waste disposal,25583
+165,2002,transportation,309719
+166,2003,transportation,297189
+167,2004,transportation,300213
+168,2005,transportation,299505
+169,2006,transportation,334945
+170,2007,transportation,380361
+171,2008,transportation,425483
+172,2009,transportation,437807
+173,2010,transportation,460027
+174,2011,transportation,417778
+175,2012,transportation,452012
+176,2013,transportation,474120
+177,2014,transportation,499678
+178,2015,transportation,537126
+179,2016,transportation,43503
+180,2002,water supply,149397
+181,2003,water supply,150325
+182,2004,water supply,151658
+183,2005,water supply,167876
+184,2006,water supply,179807
+185,2007,water supply,189329
+186,2008,water supply,200458
+187,2009,water supply,186432
+188,2010,water supply,183136
+189,2011,water supply,170172
+190,2012,water supply,159137
+191,2013,water supply,163630
+192,2014,water supply,159705
+193,2015,water supply,162596
+194,2016,water supply,12624
+195,2002,residential,4815908
+196,2003,residential,5402894
+197,2004,residential,6444447
+198,2005,residential,7546125
+199,2006,residential,7406784
+200,2007,residential,5966044
+201,2008,residential,4405549
+202,2009,residential,3073946
+203,2010,residential,3033902
+204,2011,residential,3028233
+205,2012,residential,3305811
+206,2013,residential,3949011
+207,2014,residential,4508327
+208,2015,residential,5072939
+209,2016,residential,438958
